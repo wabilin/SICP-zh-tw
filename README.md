@@ -1,5 +1,5 @@
 # SICP in Traditional Chinese
-由愛好者自行翻譯的 《SICP》 (Structure and Interpretation of Computer Programs) 繁體中文版。
+由愛好者自行翻譯的 [《SICP》 (Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay  Sussman)](http://mitpress.mit.edu/sicp/) 繁體中文版。
 
 也歡迎有興趣的人一起加入！
 
