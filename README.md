@@ -31,6 +31,7 @@ nested      | 巢狀、巢狀結構
 object      | 物件
 operator    | 運算子
 operand     | 運算元
+parameter   | parameter
 prefix notation | 前置表示法
 pretty-printing | pretty-printing
 procedure   | procedure
@@ -42,7 +43,6 @@ symbol      | 符號
 value       | 值
 variable    | 變數
 process     | process
-------------|--------
 
 
 ### License ###
