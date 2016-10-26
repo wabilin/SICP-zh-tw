@@ -42,7 +42,6 @@ read-eval-print loop | 讀入-求值-印出 迴圈
 symbol      | 符號
 value       | 值
 variable    | 變數
-process     | process
 
 
 ### License ###
